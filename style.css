@@ -1,0 +1,59 @@
+.corps{
+
+    background-color: black;
+    color:white
+}
+.titre{
+
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    
+}
+
+.sous-titre{
+
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+.menu{
+
+    text-align: center;
+    
+    
+}
+
+.texte{
+    text-align: center;
+    height: 1348px;
+}
+
+.body{
+
+    width: 1366px;
+    height: 2884px;
+}
+
+.photos{
+
+    height: 452px;
+    text-align: center;
+    background-image: url(../maxi-challenge/images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.femme{
+    
+    height: 452px;
+    width: 724px;
+    
+}
+
+.fonds{
+    
+    height: 508px;
+    -webkit-column-count:3;
+    text-align: center;
+    
+}
